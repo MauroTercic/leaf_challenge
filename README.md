@@ -1,2 +1,2 @@
 # leaf_challenge
-Entrevista técnica de LeafNoise
+Entrevista técnica de LeafNoise por Mauro Tercic.
